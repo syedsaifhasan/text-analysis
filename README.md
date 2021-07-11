@@ -1,5 +1,7 @@
 # Text Analysis
 
+## Abstract
+
 In this project, we refer to the term text analysis to the process of automatically extract topics or recovery the
 topic structure within a corpus of textual data. There are two approaches of doing this: 1) text classification
 where supervised learning algorithms are used to classify a set of corpus to a known topic; 2) topic modeling
@@ -23,10 +25,12 @@ Also, we use various visualization methods to manually look up the results on se
 
 [1] L. Hong and B. D. Davison, “Empirical study of topic modeling in twitter,” in Proceedings of the First
 Workshop on Social Media Analytics, SOMA ’10, (New York, NY, USA), p. 80–88, Association for
-Computing Machinery, 2010.
+Computing Machinery, 2010. \\
+
 [2] D. Ramamonjisoa, “Topic modeling on users’s comments,” in 2014 Third ICT International Student
-Project Conference (ICT-ISPC), pp. 177–180, 2014.
-[3] C. Wang and D. M. Blei, “Collaborative topic modeling for recommending scientific articles,” in Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,
-KDD ’11, (New York, NY, USA), p. 448–456, Association for Computing Machinery, 2011.
+Project Conference (ICT-ISPC), pp. 177–180, 2014. \\
+
+[3] C. Wang and D. M. Blei, “Collaborative topic modeling for recommending scientific articles,” in Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’11, (New York, NY, USA), p. 448–456, Association for Computing Machinery, 2011. \\
+
 [4] H. U. Asuncion, A. U. Asuncion, and R. N. Taylor, “Software traceability with topic modeling,” in 2010
-ACM/IEEE 32nd International Conference on Software Engineering, vol. 1, pp. 95–104, 2010.
+ACM/IEEE 32nd International Conference on Software Engineering, vol. 1, pp. 95–104, 2010. \\
